@@ -1,2 +1,2 @@
 # HTML_learning
-just lern
+just learn
